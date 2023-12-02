@@ -1,6 +1,5 @@
 
 > 01001000 01100101 01101100 01101100 01101111 World!
-
 ##### Who am I? 
 
 #### Tis' delashoo, a random tinkerer && Ethereum aficionado.
@@ -9,4 +8,4 @@
 
 **Forging** 🔥 the `god-demons` of ~Solidity~ , *repairing* *broken* *ones* *too*.
 
-💡 Turning code into innovation, one line at a time.
+💡 Turning code into innovation, one line at a time 💻.
