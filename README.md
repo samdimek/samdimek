@@ -2,6 +2,8 @@
 ##### Who am I? 
 > 01001000 01100101 01101100 01101100 01101111 World!
 
+![My Git Alter Ego](./web3-02.jpg)
+
 #### Tis' delashoo, a random tinkerer && Ethereum aficionado.
 
 🌌 Exploring the limitless possibilities of blockchain technology
