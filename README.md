@@ -4,8 +4,9 @@
 
 #### Tis' delashoo, a random tinkerer && Ethereum aficionado.
 
-######  Exploring the limitless possibilities of `blockchain` 🌌 technology
+######  The few things I do in this space include;
+* Exploring the limitless possibilities of `blockchain` 🌌 technology
 
-**Forging** 🔥 the `god-demons` of ~Solidity~ , *repairing* *broken* *ones* *too*.
+* **Forging** 🔥 the `god-demons` of ~Solidity~ , *repairing* *broken* *ones* *too*.
 
-💡 Turning code into innovation, one line at a time 💻.
+* 💡 Turning code into innovation, one line at a time 💻.
