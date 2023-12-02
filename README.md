@@ -10,4 +10,5 @@
 * **Forging** 🔥 the `god-demons` of ~Solidity~ , *repairing* *broken* *ones* *too*.
 
 * 💡 Turning code into innovation, one line at a time 💻.
+
 I craft tech articles during my leisure, grab one from [here](delashoo.hashnode.dev)
