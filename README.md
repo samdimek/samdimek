@@ -11,4 +11,4 @@
 
 * 💡 Turning code into innovation, one line at a time 💻.
 
-I craft tech articles during my leisure, grab one from [here](delashoo.hashnode.dev)
+I craft tech articles during my leisure, grab one from [here](www.delashoo.hashnode.dev)
