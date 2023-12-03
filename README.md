@@ -4,6 +4,7 @@
 ##### Who am I? 
 
 #### Tis' delashoo, a random tinkerer && Ethereum aficionado.
+| :-: |
 
 ######  The few things I do in this space include;
 * Exploring the limitless possibilities of `blockchain` 🌌 technology
