@@ -1,10 +1,13 @@
-![web3-Image](web3-03.png)
 
 > 01001000 01100101 01101100 01101100 01101111 World!
 ##### Who am I? 
 
-#### Tis' delashoo, a random tinkerer && Ethereum aficionado.
+#### Tis' delashoo, a random tinkerer && Ethereum aficionado with 3 years of experience wit web3 technologies
 | :-: |
+
+I am in love with decentralized technologies and always find a workaround for problems by building decentralized solutions.
+
+Solidity and Python are my go-to languages, Truffle & Brownie make my list of frameworks. Working my way up the Foundry framework too.
 
 ######  The few things I do in this space include;
 * Exploring the limitless possibilities of `blockchain` 🌌 technology
