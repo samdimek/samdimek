@@ -3,7 +3,7 @@
 > 01001000 01100101 01101100 01101100 01101111 World!
 ##### Who am I? 
 
-#### Tis' delashoo, a random tinkerer && Ethereum aficionado with 3 years of experience wit web3 technologies
+#### Tis' Cyber Sam, a random tinkerer && Ethereum aficionado with 3 years of experience wit web3 technologies
 | :-: |
 
 I am in love with decentralized technologies and always find a workaround for problems by building decentralized solutions.
