@@ -17,4 +17,4 @@ I am in love with decentralized technologies and always find a workaround for pr
 
 * 💡 Turning code into innovation, one line at a time 💻.
 
-A small secret about me 👀, I craft tech articles during my leisure, grab one from [here](https://delashoo.hashnode.dev/ "delashoo's Blog")
+A small secret about me 👀, I craft tech articles during my leisure, grab one from [here](https://samdimek.hashnode.dev/ "delashoo's Blog")
