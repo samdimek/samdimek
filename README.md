@@ -3,19 +3,17 @@
 > 01001000 01100101 01101100 01101100 01101111 World!
 ##### Who am I? 
 
-#### My name is xamdimek, a random tinkerer && Ethereum aficionado with 3 years of experience in web3 technologies
+#### My name is Xamdimek 
+
+A random tinkerer && Ethereum aficionado with 3 years of experience in web3. I have deep affection for decentralized technologies and enjoy spending my time exploring the limitless possibilities of the blockchain technology 💡.
+
+Turning code into solutions one line at a time 💻.
+
+ 🔥 **Forging** the `god-demons` of ~Solidity~ WHILE *fixing* *broken* *ones* .
+
+
 | :-: |
 
-In love with decentralized technologies, the best solutions are decentralized.
+Why do you think decentralization existed in the first place tho?
 
-🌱 Solidity and Python are my go-to languages, I know some JS ofc, Foundry + Brownie make into my list of frameworks.  
-
-######  The few things I do in this space include;
-* Exploring the limitless possibilities of `blockchain` 🌌 technology
-
-* **Forging** 🔥 the `god-demons` of ~Solidity~ , *repairing* *broken* *ones* *too*.
-
-* 💡 Turning code into solution, one line at a time 💻.
-Why do you think decntralization existed in the first place?
-
-A small secret about me 👀, I craft tech articles during my leisure, grab one from [here](https://samdimek.hashnode.dev/ "delashoo's Blog")
+I write tech articles, use this link (https://samdimek.hashnode.dev/ "delashoo's Blog") to read something today.
