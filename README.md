@@ -16,4 +16,4 @@ Turning code into solutions one line at a time 💻.
 
 Why do you think decentralization existed in the first place tho?
 
-I write tech articles, use this link (https://samdimek.hashnode.dev/ "delashoo's Blog") to read something today.
+I write tech articles, use this link (https://samdimek.hashnode.dev/ "Xam's Blog") to read something today.
