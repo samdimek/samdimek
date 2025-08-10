@@ -8,19 +8,14 @@
 - With a background in web3 technologies, blockchain, and cryptography, I am committed to ensuring the safety of emerging technologies.
 
 <h4 align="center"> My Focus Areas </h4>
-- **Cybersecurity** : Network security, risk management, vulnerability assessments, penetration testing, and incident response.
-- **Blockchain and Web3** : Passionate about the decentralized world, including smart contracts and cryptocurrencies technologies
-- **Solidity Development** : Experienced in building smart contracts, although it's not my primary focus at the moment.
-- **Automation & Bots** : I am such a lazy punk, I always want to automate stuff. I built a bot that automates bidding on my side hustle projects, optimizing efficiency and response time.
 
+- 👨‍💻**Cybersecurity** : Network security, risk management, vulnerability assessments, penetration testing, and incident response.
 
+- 📝 **Blockchain and Web3** : Passionate about the decentralized world, including smart contracts and cryptocurrencies technologies
 
-
-- 👨‍💻 Each of my projects will be available at: [My projects](https://samdimek.com/projects) on 10th Oct, 2025 [1430hrs].
-
-- 📝 I write articles on security & software in general, you can read some of them in, [Tech-Diaries](https://samdimek.hashnode.dev/)
-
-- 💬 I love discussions on: **Decentralization and smart contract development**
+- 💬 **Solidity Development** : Experienced in building smart contracts, although it's not my primary focus at the moment.
+  
+-  **Automation & Bots** : I am such a lazy punk, I always want to automate stuff. I built a bot that automates bidding on my side hustle projects, optimizing efficiency and response time
 
 
 
