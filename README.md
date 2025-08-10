@@ -1,12 +1,20 @@
-<h1 align="center">Hello, My name is Xam. ching-chong!</h1>
-<h3 align="center">Human. Software Engineer & Learner</h3>
+<h1 align="center">Hi, I'm Xam-Xukin (samdimek).</h1>
+<h3 align="center"> Human. Software Engineer. Cybersecurity Expert, & Learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdimek&label=Profile%20views&color=0e75b6&style=flat" alt="samdimek" /> </p>
 
-- 🔭 I am currently working on building a website automation system, [Gud-Poop](https://github.com/samdimek/Gud-Poop)
+- 🔭 I am a passionate cybersecurity expert with deep focus on securing digital infrastructures and systems.
 
-- I enjoy leveraging Ethereum's tech to figure out decentralized financial solutions.  
-**Beyond the boundaries of Traditional Finance.**
+- With a background in web3 technologies, blockchain, and cryptography, I am committed to ensuring the safety of emerging technologies.
+
+<h4 align="center"> My Focus Areas </h4>
+- **Cybersecurity** : Network security, risk management, vulnerability assessments, penetration testing, and incident response.
+- **Blockchain and Web3** : Passionate about the decentralized world, including smart contracts and cryptocurrencies technologies
+- **Solidity Development** : Experienced in building smart contracts, although it's not my primary focus at the moment.
+- **Automation & Bots** : I am such a lazy punk, I always want to automate stuff. I built a bot that automates bidding on my side hustle projects, optimizing efficiency and response time.
+
+
+
 
 - 👨‍💻 Each of my projects will be available at: [My projects](https://samdimek.com/projects) on 10th Oct, 2025 [1430hrs].
 
