@@ -1,25 +1,23 @@
-<h1 align="center">Hi, I'm Xam-Xukin (samdimek).</h1>
-<h3 align="center"> Human. Software Engineer. Cybersecurity Expert, & Learner </h3>
+<h1 align="center">Hi, I'm Xam (samdimek).</h1>
+<h3 align="center"> Software Engineer | Backend & Systems Integration | Application Security </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdimek&label=Profile%20views&color=0e75b6&style=flat" alt="samdimek" /> </p>
 
-- 🔭 I am a passionate cybersecurity expert with deep focus on securing digital infrastructures and systems.
+- 🔭 I build secure, production-oriented software systems, APIs and automation platforms, with a focus on backend engineering, systems integration and application security.
 
-- With a background in web3 technologies, blockchain, and cryptography, I am committed to ensuring the safety of emerging technologies.
+- .
 
 <h4 align="center"> My Focus Areas </h4>
 
-- 👨‍💻**Cybersecurity** : Network security, risk management, vulnerability assessments, penetration testing, and incident response.
+- 👨‍💻**Build** : Network security, risk management, vulnerability assessments, penetration testing, and incident response.
 
-- 📝 **Blockchain and Web3** : Passionate about the decentralized world, including smart contracts and cryptocurrencies technologies
+- 📝 **Secure** : Passionate about the decentralized world, including smart contracts and cryptocurrencies technologies
 
-- 💬 **Solidity Development** : Experienced in building smart contracts, although it's not my primary focus at the moment.
-  
--  **Automation & Bots** : I am such a lazy punk, I always want to automate stuff. I built a bot that automates bidding on my side hustle projects, optimizing efficiency and response time
+- 💬 **Operate** : Experienced in building smart contracts, although it's not my primary focus at the moment.
 
 
 
-- ⚡ Fun fact : **The original name of Bank of America was Bank of Italy,** and I also listen to rhumba.
+- ⚡ Fun fact : **The original name of Bank of America was Bank of Italy**
 
 <h3 align="left">Socials:</h3>
 <p align="left">
