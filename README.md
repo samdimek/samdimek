@@ -1,20 +1,29 @@
-<h1 align="center">Hi, I'm Xam (samdimek).</h1>
+<h1 align="center">Hi, I am Xam.</h1>
 <h3 align="center"> Software Engineer | Backend & Systems Integration | Application Security </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samdimek&label=Profile%20views&color=0e75b6&style=flat" alt="samdimek" /> </p>
 
-- 🔭 I build secure, production-oriented software systems, APIs and automation platforms, with a focus on backend engineering, systems integration and application security.
-
-- .
+- 🔭 I build secure, production-oriented software systems, APIs and automation platforms, with a focus on backend engineering, systems integration and application security. 
 
 <h4 align="center"> My Focus Areas </h4>
 
-- 👨‍💻**Build** : Network security, risk management, vulnerability assessments, penetration testing, and incident response.
+- 👨‍💻**Build** : Full-stack Web application, Rest APIs, Backend Systems, Databases, Third-party integrations, Payment integrations, Business automation
 
-- 📝 **Secure** : Passionate about the decentralized world, including smart contracts and cryptocurrencies technologies
+- 📝 **Secure** : Secure authentication, RBAC, API Security, Web Application Security, Vulnerability Assessment, Secure Coding, Linux/Networking, Security Testing
 
-- 💬 **Operate** : Experienced in building smart contracts, although it's not my primary focus at the moment.
+- 💬 **Operate** : Docker, CI/CD, Cloud Deployment, Linux Administration, Monitoring, Documentation, Production Troubleshooting
 
+<h4 align="center"> My Tech Stack </h4>
+
+- 👨‍💻**Primary** : Python, Typescript
+
+- 📝 **Frontend** : React.js, Next.js, Typescript, Tailwind CSS
+  
+- 💬 **Backend** : Node.js, Express.js, FastAPI, REST APIs
+
+- 💬 **Database** : PostgreSQL, Redis, SQLite
+
+- 💬 **Security**: Burp Suite, Nmap, Wireshark, OWASP ZAP, Metasploit, OSS-Fuzz, Clang, Ghidra
 
 
 - ⚡ Fun fact : **The original name of Bank of America was Bank of Italy**
