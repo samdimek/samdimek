@@ -15,17 +15,25 @@
 
 <h4 align="center"> My Tech Stack </h4>
 
-- 👨‍💻**Primary** : Python, Typescript
+- ⚡ **Primary** : Python, Typescript
 
-- 📝 **Frontend** : React.js, Next.js, Typescript, Tailwind CSS
+- ⚡ **Frontend** : React.js, Next.js, Typescript, Tailwind CSS
   
-- 💬 **Backend** : Node.js, Express.js, FastAPI, REST APIs
+- ⚡ **Backend** : Node.js, Express.js, FastAPI, REST APIs
 
-- 💬 **Database** : PostgreSQL, Redis, SQLite
+- ⚡ **Database** : PostgreSQL, Redis, SQLite
 
-- 💬 **Security**: Burp Suite, Nmap, Wireshark, OWASP ZAP, Metasploit, OSS-Fuzz, Clang, Ghidra
+- ⚡ **Security**: Burp Suite, Nmap, Wireshark, OWASP ZAP, Metasploit, OSS-Fuzz, Clang, Ghidra, UBScan, libFuzzer.
 
+- ⚡ **Infrastructure**: Linux, Docker, Nginx, Github Actions
 
+- ⚡ **Cloud**: AWS, Vercel, Render
+
+- ⚡ **AI/Automation**: LLM APIs, n8n, Webhooks, RAG
+
+- ⚡ **Blockchain**: Solidity, EVM, ether.js, Smart-contracts security
+
+  
 - ⚡ Fun fact : **The original name of Bank of America was Bank of Italy**
 
 <h3 align="left">Socials:</h3>
